@@ -1,5 +1,5 @@
-# Hi there, I'm Adam 👋
-
+# Hi there
+I'm Adam 👋
 I'm an aspiring **QA Automation Engineer** focused on building clean, reliable, and scalable automated test suites. Currently building E2E test frameworks and exploring junior QA opportunities.
 
 ---
