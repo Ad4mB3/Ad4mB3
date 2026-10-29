@@ -19,7 +19,7 @@ I'm an aspiring **QA Automation Engineer** focused on building clean, reliable, 
 ---
 
 ### 📌 Featured Project
-- 🎭 **[sauce-demo-playwright-automation](https://github.com/TVUJE_USERNAME/sauce-demo-playwright-automation)**  
+- 🎭 **[sauce-demo-playwright-automation](https://github.com/Ad4mB3/sauce-demo-playwright-automation)**  
   *Automated E2E testing framework for Swag Labs (SauceDemo). Built with Python, Playwright, and pytest utilizing Page Object Model, dynamic locators, and test parametrizations.*
 
 ---
