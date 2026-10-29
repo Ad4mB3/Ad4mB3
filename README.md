@@ -24,5 +24,5 @@ I'm an aspiring **QA Automation Engineer** focused on building clean, reliable, 
 
 ---
 
-📫 **Reach out:** Feel free to explore my repositories or get in touch regarding QA / Test Automation opportunities!
-🌐 **Portfolio:** [Ad4mB3.github.io](https://Ad4mB3.github.io)
+- 📫 **Reach out:** Feel free to explore my repositories or get in touch regarding QA / Test Automation opportunities!
+- 🌐 **Portfolio:** [Ad4mB3.github.io](https://Ad4mB3.github.io)
